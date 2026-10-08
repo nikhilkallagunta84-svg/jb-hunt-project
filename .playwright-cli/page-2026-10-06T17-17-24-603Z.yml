@@ -1,0 +1,91 @@
+- generic [ref=e3]:
+  - complementary [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]: J
+      - generic [ref=e7]: TalentIQ
+      - generic [ref=e8]: by J.B. Hunt
+    - generic [ref=e9]: OPERATIONS
+    - button "⌂ Home" [ref=e10] [cursor=pointer]:
+      - generic [ref=e11]: ⌂
+      - generic [ref=e12]: Home
+    - button "◉ Interviews" [ref=e13] [cursor=pointer]:
+      - generic [ref=e14]: ◉
+      - generic [ref=e15]: Interviews
+    - button "✧ Playground" [ref=e16] [cursor=pointer]:
+      - generic [ref=e17]: ✧
+      - generic [ref=e18]: Playground
+    - button "◫ Scheduling" [ref=e19] [cursor=pointer]:
+      - generic [ref=e20]: ◫
+      - generic [ref=e21]: Scheduling
+    - button "⌇ Analytics" [ref=e22] [cursor=pointer]:
+      - generic [ref=e23]: ⌇
+      - generic [ref=e24]: Analytics
+    - generic [ref=e25]:
+      - button "♧" [ref=e26]:
+        - text: ♧
+        - emphasis [ref=e27]
+      - generic [ref=e28]: AR
+  - main [ref=e29]:
+    - generic [ref=e30]:
+      - generic [ref=e31]: TALENTIQ / RECRUITER VIEW
+      - generic [ref=e32]:
+        - button "?" [ref=e33]
+        - combobox [ref=e34]:
+          - option "Recruiter" [selected]
+          - option "Interviewer"
+          - option "Candidate"
+    - generic [ref=e119]:
+      - generic [ref=e120]:
+        - generic [ref=e121]:
+          - paragraph [ref=e122]: SCHEDULING · CENTRAL TIME
+          - heading "Make room for momentum." [level=2] [ref=e123]
+        - generic [ref=e124]: 1 opening found
+      - generic [ref=e125]:
+        - generic [ref=e126]:
+          - generic [ref=e127]:
+            - generic [ref=e128]: 2:30
+            - generic [ref=e129]: PM · CT
+          - generic [ref=e132]: ✦
+        - generic [ref=e133]:
+          - text: SLOT RESCUE
+          - heading "An opening just became possible." [level=3] [ref=e134]
+          - paragraph [ref=e135]: A follow-up was cancelled. We found an opted-in candidate whose stated availability matches.
+          - generic [ref=e136]:
+            - button "Preview candidate offer →" [ref=e171] [cursor=pointer]
+            - button "See eligibility" [ref=e138] [cursor=pointer]
+        - generic [ref=e139]:
+          - generic [ref=e140]: OFFER STATUS
+          - generic [ref=e141]: 04:42
+          - paragraph [ref=e142]: Offer held for Elena
+      - generic [ref=e143]:
+        - generic [ref=e144]:
+          - generic [ref=e145]: Friday, October 18
+          - generic [ref=e146]: Today
+          - button "‹" [ref=e147]
+          - button "›" [ref=e148]
+        - generic [ref=e149]:
+          - generic [ref=e150]:
+            - generic [ref=e151]: 9 AM
+            - generic [ref=e152]: 10 AM
+            - generic [ref=e153]: 11 AM
+            - generic [ref=e154]: 12 PM
+            - generic [ref=e155]: 1 PM
+            - generic [ref=e156]: 2 PM
+            - generic [ref=e157]: 3 PM
+            - generic [ref=e158]: 4 PM
+          - generic [ref=e159]:
+            - generic [ref=e160]: FRI 18
+            - generic [ref=e161]:
+              - text: Jordan Lee
+              - generic [ref=e162]: Screen · 9:30 AM
+            - generic [ref=e163]:
+              - text: Maya Thompson
+              - generic [ref=e164]: Follow-up · 11:30 AM
+            - generic [ref=e165]:
+              - text: Open · canceled
+              - generic [ref=e166]: Follow-up · 2:30 PM
+          - generic [ref=e167]:
+            - generic [ref=e168]: SAT 19
+            - generic [ref=e169]:
+              - text: Elena Garcia
+              - generic [ref=e170]: Follow-up · 10:00 AM

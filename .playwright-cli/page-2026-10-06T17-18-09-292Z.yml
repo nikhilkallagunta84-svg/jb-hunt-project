@@ -1,0 +1,65 @@
+- generic [ref=e3]:
+  - complementary [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]: J
+      - generic [ref=e7]: TalentIQ
+      - generic [ref=e8]: by J.B. Hunt
+    - generic [ref=e9]: OPERATIONS
+    - button "⌂ Home" [ref=e10] [cursor=pointer]:
+      - generic [ref=e11]: ⌂
+      - generic [ref=e12]: Home
+    - button "◉ Interviews" [ref=e13] [cursor=pointer]:
+      - generic [ref=e14]: ◉
+      - generic [ref=e15]: Interviews
+    - button "✧ Playground" [ref=e16] [cursor=pointer]:
+      - generic [ref=e17]: ✧
+      - generic [ref=e18]: Playground
+    - button "◫ Scheduling" [ref=e19] [cursor=pointer]:
+      - generic [ref=e20]: ◫
+      - generic [ref=e21]: Scheduling
+    - button "⌇ Analytics" [active] [ref=e22] [cursor=pointer]:
+      - generic [ref=e23]: ⌇
+      - generic [ref=e24]: Analytics
+    - generic [ref=e25]:
+      - button "♧" [ref=e26]:
+        - text: ♧
+        - emphasis [ref=e27]
+      - generic [ref=e28]: AR
+  - main [ref=e29]:
+    - generic [ref=e30]:
+      - generic [ref=e31]: TALENTIQ / RECRUITER VIEW
+      - generic [ref=e32]:
+        - button "?" [ref=e33]
+        - combobox [ref=e34]:
+          - option "Recruiter" [selected]
+          - option "Interviewer"
+          - option "Candidate"
+    - generic [ref=e197]:
+      - generic [ref=e198]:
+        - paragraph [ref=e199]: OPERATIONS ANALYTICS · DEMO DATA
+        - heading "Less waiting. More possibility." [level=2] [ref=e200]: Less waiting.More possibility.
+        - paragraph [ref=e201]: Recruiting operations metrics, held apart from individual candidate evaluation.
+      - generic [ref=e202]:
+        - text: SLOTS RESCUED
+        - generic [ref=e203]: "19"
+        - text: 62% of eligible cancellations
+      - generic [ref=e204]:
+        - generic [ref=e205]:
+          - text: WAIT TIME REDUCED
+          - generic [ref=e206]: 1.4 days
+          - emphasis [ref=e207]: +0.3 this month
+        - generic [ref=e208]:
+          - text: OFFER ACCEPTANCE
+          - generic [ref=e209]: 71%
+          - emphasis [ref=e210]: 12 of 17 accepted
+        - generic [ref=e211]:
+          - text: MESSAGES AVOIDED
+          - generic [ref=e212]: "34"
+          - emphasis [ref=e213]: Estimated
+      - generic [ref=e214]:
+        - generic [ref=e215]:
+          - text: RECOVERY MOMENTUM
+          - heading "Slots recovered over time" [level=3] [ref=e216]
+        - generic [ref=e230]:
+          - generic [ref=e231]: Oct 1
+          - generic [ref=e232]: Oct 18

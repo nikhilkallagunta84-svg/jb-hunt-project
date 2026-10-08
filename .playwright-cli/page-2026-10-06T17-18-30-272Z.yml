@@ -1,0 +1,25 @@
+- generic [ref=e3]:
+  - generic [ref=e233]:
+    - generic [ref=e234]: DEMO ROLE
+    - combobox [ref=e235]:
+      - option "Recruiter"
+      - option "Interviewer"
+      - option "Candidate" [selected]
+  - generic [ref=e236]:
+    - generic [ref=e237]:
+      - generic [ref=e238]:
+        - generic [ref=e239]: J
+        - generic [ref=e240]: TalentIQ
+        - generic [ref=e241]: by J.B. Hunt
+      - generic [ref=e242]: •••
+    - generic [ref=e243]:
+      - generic [ref=e257]: ✓
+      - paragraph [ref=e258]: YOU’RE CHECKED IN
+      - heading "You’re next." [level=1] [ref=e259]: You’renext.
+      - generic [ref=e260]:
+        - generic [ref=e261]: "01"
+        - generic [ref=e262]:
+          - text: Position in queue
+          - strong [ref=e263]: About 6 minutes
+      - paragraph [ref=e264]: Stay nearby. We’ll let you know as soon as your interviewer is ready.
+      - button "Leave queue" [ref=e265] [cursor=pointer]

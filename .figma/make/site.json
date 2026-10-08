@@ -1,0 +1,10 @@
+{
+  "description": "Streamline recruiting and interviewing with features like QR check-in, virtual queuing, AI-driven transcription, and collaborative product demos to enhance candidate engagement and efficiency.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

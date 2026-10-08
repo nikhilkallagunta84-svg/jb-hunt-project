@@ -1,0 +1,102 @@
+- generic [ref=e3]:
+  - complementary [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]: J
+      - generic [ref=e7]: TalentIQ
+      - generic [ref=e8]: by J.B. Hunt
+    - generic [ref=e9]: OPERATIONS
+    - button "⌂ Home" [ref=e10] [cursor=pointer]:
+      - generic [ref=e11]: ⌂
+      - generic [ref=e12]: Home
+    - button "◉ Interviews" [ref=e13] [cursor=pointer]:
+      - generic [ref=e14]: ◉
+      - generic [ref=e15]: Interviews
+    - button "✧ Playground" [ref=e16] [cursor=pointer]:
+      - generic [ref=e17]: ✧
+      - generic [ref=e18]: Playground
+    - button "◫ Scheduling" [ref=e19] [cursor=pointer]:
+      - generic [ref=e20]: ◫
+      - generic [ref=e21]: Scheduling
+    - button "⌇ Analytics" [ref=e22] [cursor=pointer]:
+      - generic [ref=e23]: ⌇
+      - generic [ref=e24]: Analytics
+    - generic [ref=e25]:
+      - button "♧" [ref=e26]:
+        - text: ♧
+        - emphasis [ref=e27]
+      - generic [ref=e28]: AR
+  - main [ref=e29]:
+    - generic [ref=e30]:
+      - generic [ref=e31]: TALENTIQ / RECRUITER VIEW
+      - generic [ref=e32]:
+        - button "?" [ref=e33]
+        - combobox [ref=e34]:
+          - option "Recruiter" [selected]
+          - option "Interviewer"
+          - option "Candidate"
+    - generic [ref=e35]:
+      - generic [ref=e36]:
+        - paragraph [ref=e39]: FRIDAY · OCTOBER 18 · CENTRAL TIME
+        - heading "Make each moment count." [level=1] [ref=e40]: Make eachmoment count.
+        - paragraph [ref=e41]: Today’s candidate experience is in motion. Three interviews are ready for your attention.
+        - generic [ref=e42]:
+          - button "Open live interview →" [ref=e43] [cursor=pointer]
+          - button "Manage today’s schedule" [ref=e44] [cursor=pointer]
+        - generic [ref=e45]:
+          - generic [ref=e46]: Queue 03
+          - generic [ref=e48]: Interviews 12
+          - generic [ref=e50]: Reviews 03
+      - generic [ref=e51]:
+        - generic [ref=e52]:
+          - generic [ref=e53]: NOW PLAYING
+          - button "•••" [ref=e54]
+        - generic [ref=e67]:
+          - generic [ref=e68]: MT
+          - generic [ref=e69]:
+            - generic [ref=e70]: Maya Thompson
+            - generic [ref=e71]: Follow-up interview · 02:00 PM
+          - button "Join →" [ref=e72]
+      - generic [ref=e73]:
+        - article [ref=e74]:
+          - generic [ref=e75]: ↗
+          - generic [ref=e76]:
+            - generic [ref=e77]: 8m 24s
+            - generic [ref=e78]: Average wait
+          - emphasis [ref=e79]: −12%
+        - article [ref=e80]:
+          - generic [ref=e81]: ✦
+          - generic [ref=e82]:
+            - generic [ref=e83]: "18"
+            - generic [ref=e84]: Slots rescued
+          - emphasis [ref=e85]: "+4"
+        - article [ref=e86]:
+          - generic [ref=e87]: ✓
+          - generic [ref=e88]:
+            - generic [ref=e89]: "12"
+            - generic [ref=e90]: Interviews complete
+          - emphasis [ref=e91]: Today
+      - generic [ref=e92]:
+        - generic [ref=e93]:
+          - generic [ref=e94]:
+            - heading "Your next moves" [level=3] [ref=e95]
+            - button "View all" [ref=e96]
+          - button "Transcript ready Maya Thompson Review draft summary ›" [ref=e97] [cursor=pointer]:
+            - generic [ref=e99]:
+              - generic [ref=e100]: Transcript ready
+              - generic [ref=e101]: Maya Thompson
+            - emphasis [ref=e102]: Review draft summary ›
+          - button "A slot opened 2:30 PM today Find eligible candidates ›" [ref=e103] [cursor=pointer]:
+            - generic [ref=e105]:
+              - generic [ref=e106]: A slot opened
+              - generic [ref=e107]: 2:30 PM today
+            - emphasis [ref=e108]: Find eligible candidates ›
+          - button "Queue update Jordan Lee You’re next in 6 min ›" [ref=e109] [cursor=pointer]:
+            - generic [ref=e111]:
+              - generic [ref=e112]: Queue update
+              - generic [ref=e113]: Jordan Lee
+            - emphasis [ref=e114]: You’re next in 6 min ›
+        - generic [ref=e115]:
+          - text: TEAM PULSE
+          - heading "Faster paths. Thoughtful decisions." [level=3] [ref=e116]: Faster paths.Thoughtful decisions.
+          - paragraph [ref=e117]: Slot Rescue has reduced candidate wait time by an average of 1.4 days this month.
+          - button "Explore analytics →" [ref=e118]

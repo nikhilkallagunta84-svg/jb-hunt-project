@@ -1,0 +1,23 @@
+- generic [ref=e3]:
+  - generic [ref=e233]:
+    - generic [ref=e234]: DEMO ROLE
+    - combobox [ref=e235]:
+      - option "Recruiter"
+      - option "Interviewer"
+      - option "Candidate" [selected]
+  - generic [ref=e236]:
+    - generic [ref=e237]:
+      - generic [ref=e238]:
+        - generic [ref=e239]: J
+        - generic [ref=e240]: TalentIQ
+        - generic [ref=e241]: by J.B. Hunt
+      - generic [ref=e242]: •••
+    - generic [ref=e243]:
+      - paragraph [ref=e244]: CAREER EVENT CHECK-IN
+      - heading "Welcome. Let’s get you ready." [level=1] [ref=e245]: Welcome.Let’s get you ready.
+      - generic [ref=e246]:
+        - text: ▦
+        - generic [ref=e247]: Scan event code
+      - paragraph [ref=e248]: Scanning reserves your place in the virtual queue. It does not schedule an interview appointment.
+      - button "Scan event QR code →" [ref=e249] [cursor=pointer]
+      - button "Camera permission help" [ref=e250] [cursor=pointer]

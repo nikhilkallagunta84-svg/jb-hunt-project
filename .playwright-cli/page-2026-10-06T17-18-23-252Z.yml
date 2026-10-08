@@ -1,0 +1,25 @@
+- generic [ref=e3]:
+  - generic [ref=e233]:
+    - generic [ref=e234]: DEMO ROLE
+    - combobox [ref=e235]:
+      - option "Recruiter"
+      - option "Interviewer"
+      - option "Candidate" [selected]
+  - generic [ref=e236]:
+    - generic [ref=e237]:
+      - generic [ref=e238]:
+        - generic [ref=e239]: J
+        - generic [ref=e240]: TalentIQ
+        - generic [ref=e241]: by J.B. Hunt
+      - generic [ref=e242]: •••
+    - generic [ref=e243]:
+      - paragraph [ref=e244]: CHECK-IN CONFIRMED
+      - heading "One quick confirmation." [level=1] [ref=e251]: One quickconfirmation.
+      - generic [ref=e246]:
+        - generic [ref=e252]: J.B. Hunt Career Event
+        - generic [ref=e247]: Operations Analyst
+        - generic [ref=e253]: River Market Conference Center
+        - generic [ref=e254]: Today · Central Time
+      - paragraph [ref=e248]: Joining the queue saves your place. It does not create or change an interview appointment.
+      - button "Join virtual queue →" [active] [ref=e255] [cursor=pointer]
+      - button "Back" [ref=e256] [cursor=pointer]
